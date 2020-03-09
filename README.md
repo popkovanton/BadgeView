@@ -3,6 +3,11 @@
 [![platform](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
 
+**This is not the final version! Key functions subject to change.**
+
+## Demo app
+[<img src="media/badge_view_demo.jpg" width="300" />]()
+
 ## Download
 
 ```groovy
@@ -54,7 +59,7 @@ BadgeView badgeView = BadgeFactory
 | --- | --- |
 | bv_badgeFontFamily  | Font Types |
 | bv_badgeGravity  | top / bottom / left / right |
-| bv_badgeShape  | circle / rectangle / oval |
+| bv_badgeShape  | circle / rectangle / oval / drawable |
 | bv_badgeWidth  | integer / dimension |
 | bv_badgeHeight  | integer / dimension |
 | bv_badgeTextColor  | color |
